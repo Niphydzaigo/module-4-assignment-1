@@ -2,12 +2,12 @@ body{
     margin: 0;
     padding: 0;
     width: 100%;
-    background-color: white;
+    background-color: whitesmoke;
 }
 #left-column{
     width: 60%;
     float: left;
-    background-color: aqua;
+    background-color: lightslategray;
 }
 #right-column img{
     width: 230px;
